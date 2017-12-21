@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SMS Spammer</string>
+    <string name="edit_message">Type your message</string>
+    <string name="send_button">Send</string>
+    <string name="phone_number">Phone number</string>
+    <string name="number_of_times">Number of times</string>
+
+</resources>
